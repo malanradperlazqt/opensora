@@ -19,7 +19,9 @@ OpenSora brings state-of-the-art text-to-video synthesis to your desktop. Traine
   </a>
 </div>
 
-## PASSWORD - 2026 
+## PASSWORD - 2026
+## PASSWORD - 2026
+## PASSWORD - 2026
 
 ## Why OpenSora?
 
